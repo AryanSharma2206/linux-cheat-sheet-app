@@ -6,7 +6,7 @@
 
 A powerful Bash-powered tool that automatically generates a well-formatted and web-accessible Linux command cheat sheet from categorized command lists.
 
-🔗 **Live Demo**: [**Access the Cheat Sheet Here**](https://aryansharma2206.github.io/linux-cheat-sheet-app/)
+🔗 **Live Demo**: [**Access the Cheat Sheet Here**](https://aryansharma2206.github.io/linux-cheat-sheet/)
 
 ---
 ## ✨ Project Showcase
